@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/randomusergenerator/static/css/main.4403203b.css",
+    "main.js": "/randomusergenerator/static/js/main.f21de213.js",
+    "static/media/1.jpg": "/randomusergenerator/static/media/1.7e0140941162f53cf956.jpg",
+    "static/media/2.jpg": "/randomusergenerator/static/media/2.e9279f3c5901266e059c.jpg",
+    "index.html": "/randomusergenerator/index.html",
+    "main.4403203b.css.map": "/randomusergenerator/static/css/main.4403203b.css.map",
+    "main.f21de213.js.map": "/randomusergenerator/static/js/main.f21de213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4403203b.css",
+    "static/js/main.f21de213.js"
+  ]
+}
